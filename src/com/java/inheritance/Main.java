@@ -10,5 +10,7 @@ public class Main {
 //        b.m2();
         b.m4("Hello");
 
+        A a1 = new B();
+        a1.m1();
     }
 }
